@@ -1,4 +1,4 @@
-Vitthal Gole (github:- https://github.com/vitthala-27)
+Rujit Doke (github:- https://github.com/Rujitd)
 
 To create a nodejs project in jenkins with pulling the code from git into the deployment server, building, testing, and deploying it on the deployment server 
 
